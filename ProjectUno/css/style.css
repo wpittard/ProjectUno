@@ -1,0 +1,56 @@
+*{
+  margin:0px;
+  padding:0px;
+  border:0px;
+}
+.text{
+    font-family: 'Noto Serif JP', sans-serif;
+    paddind:0px;
+}
+body {
+	background-color: lightblue;
+	}
+
+#container{
+  position:relative
+}
+#title{
+  text-align: center;
+  
+}
+#navigation{
+ 
+  width: 99.6%;
+  word-spacing: 3em;
+  text-align: center;
+}
+#image{
+ 
+  Float: left;
+  width: 49%;
+  height: 800px;
+}
+img{
+  width:100%;
+  height:100%;
+  
+}
+#top-right{
+
+  float:right;
+  width:49%;
+  height:800px;
+}
+#small{
+  position: relative;
+  position:left;
+}
+#resources{
+  border:solid;
+  position:relative;
+  bottom: 0px;
+  word-spacing: 3em;
+  text-align: center;
+}
+
+https://www.una.edu/brand/images/logo/round/UNA-roundPurple-logo.png
